@@ -1,0 +1,11 @@
+F:\ASP.NET\Joker_11.18\Joker.DAL\obj\Debug\Joker.DAL.csprojAssemblyReference.cache
+F:\ASP.NET\Joker_11.18\Joker.DAL\obj\Debug\Joker.DAL.csproj.CoreCompileInputs.cache
+F:\ASP.NET\Joker_11.18\Joker.DAL\bin\Debug\Joker.DAL.dll
+F:\ASP.NET\Joker_11.18\Joker.DAL\bin\Debug\Joker.DAL.pdb
+F:\ASP.NET\Joker_11.18\Joker.DAL\bin\Debug\Joker.DBUtility.dll
+F:\ASP.NET\Joker_11.18\Joker.DAL\bin\Debug\Joker.Model.dll
+F:\ASP.NET\Joker_11.18\Joker.DAL\bin\Debug\Joker.DBUtility.pdb
+F:\ASP.NET\Joker_11.18\Joker.DAL\bin\Debug\Joker.Model.pdb
+F:\ASP.NET\Joker_11.18\Joker.DAL\obj\Debug\Joker.DAL.csproj.CopyComplete
+F:\ASP.NET\Joker_11.18\Joker.DAL\obj\Debug\Joker.DAL.dll
+F:\ASP.NET\Joker_11.18\Joker.DAL\obj\Debug\Joker.DAL.pdb

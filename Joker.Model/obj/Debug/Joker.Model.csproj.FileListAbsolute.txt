@@ -1,0 +1,5 @@
+F:\ASP.NET\Joker_11.18\Joker.Model\bin\Debug\Joker.Model.dll
+F:\ASP.NET\Joker_11.18\Joker.Model\bin\Debug\Joker.Model.pdb
+F:\ASP.NET\Joker_11.18\Joker.Model\obj\Debug\Joker.Model.csproj.CoreCompileInputs.cache
+F:\ASP.NET\Joker_11.18\Joker.Model\obj\Debug\Joker.Model.dll
+F:\ASP.NET\Joker_11.18\Joker.Model\obj\Debug\Joker.Model.pdb
