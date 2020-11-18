@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joker.DAL", "Joker.DAL\Joker.DAL.csproj", "{50999379-5E8D-4C24-B7FC-4F8135CB68CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joker.BLL", "Joker.BLL\Joker.BLL.csproj", "{F7D97271-4591-4F76-97F2-46B2C6F1DA89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joker.web", "Joker.web\Joker.web.csproj", "{75AE83F6-F99A-465D-98D3-21E7E8E68B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joker.Model", "Joker.Model\Joker.Model.csproj", "{E39E986D-DECA-44E9-BD3F-2463E72022D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joker.Common", "Joker.Common\Joker.Common.csproj", "{CFE7369B-43B5-4C2F-80A3-197B8BCF88B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joker.DBUtility", "Joker.DBUtility\Joker.DBUtility.csproj", "{C43D76C3-886D-4108-A60B-A18976921D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50999379-5E8D-4C24-B7FC-4F8135CB68CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50999379-5E8D-4C24-B7FC-4F8135CB68CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50999379-5E8D-4C24-B7FC-4F8135CB68CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50999379-5E8D-4C24-B7FC-4F8135CB68CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D97271-4591-4F76-97F2-46B2C6F1DA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D97271-4591-4F76-97F2-46B2C6F1DA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D97271-4591-4F76-97F2-46B2C6F1DA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D97271-4591-4F76-97F2-46B2C6F1DA89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75AE83F6-F99A-465D-98D3-21E7E8E68B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75AE83F6-F99A-465D-98D3-21E7E8E68B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75AE83F6-F99A-465D-98D3-21E7E8E68B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75AE83F6-F99A-465D-98D3-21E7E8E68B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39E986D-DECA-44E9-BD3F-2463E72022D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39E986D-DECA-44E9-BD3F-2463E72022D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39E986D-DECA-44E9-BD3F-2463E72022D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39E986D-DECA-44E9-BD3F-2463E72022D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE7369B-43B5-4C2F-80A3-197B8BCF88B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE7369B-43B5-4C2F-80A3-197B8BCF88B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE7369B-43B5-4C2F-80A3-197B8BCF88B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE7369B-43B5-4C2F-80A3-197B8BCF88B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43D76C3-886D-4108-A60B-A18976921D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43D76C3-886D-4108-A60B-A18976921D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43D76C3-886D-4108-A60B-A18976921D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43D76C3-886D-4108-A60B-A18976921D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290F249F-8FF9-4C31-957C-206047FA57D2}
+	EndGlobalSection
+EndGlobal
